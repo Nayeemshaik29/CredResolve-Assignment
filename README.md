@@ -265,25 +265,13 @@ Interviewers can directly verify endpoints using this link.
 5. Application starts at:
 
    ```
-   http://localhost:8080
+   http://localhost:8089
    ```
 
 ---
 
-## 🎯 Design Principles Used
 
-* Separation of Concerns
-* Layered Architecture
-* Single Responsibility Principle
-* Clean Code Practices
 
----
-
-## 🧠 Interview Explanation (1 Minute)
-
-> “This is a Splitwise-like expense sharing backend built using Spring Boot and PostgreSQL. It follows a layered architecture where controllers handle HTTP requests, services contain business logic like expense splitting and balance calculation, and repositories interact with the database using JPA. The design ensures clean separation of concerns, maintainability, and easy testing.”
-
----
 
 ## ✅ Project Highlights
 
