@@ -118,7 +118,7 @@ Repositories:
 
 ### 📐 Database ER Diagram
 
-![Database Design](DataBase Design.jpg)
+![Database Design](DataBaseDesign.jpg)
 
 The database schema is designed **exactly according to the implemented JPA entities** in this project.
 
